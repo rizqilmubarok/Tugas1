@@ -1,6 +1,6 @@
 import java.net.*;
         import java.util.Scanner;
-    public class Detector_IP {
+    public class DeteksiIp {
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
 
